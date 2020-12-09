@@ -1,8 +1,6 @@
 # Anti-VM
 Anti-VM, malware sandbox detection and evasion.
 
-Sponsorship.sponsorable
-
 ![alt text](https://github.com/Joefreedy/Anti-VM/blob/master/sneakband.PNG)
 
 | Sandbox PoC Anyrun bypass - evasion. 
